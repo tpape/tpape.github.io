@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Thomas Pape
 
-You can use the [editor on GitHub](https://github.com/tpape/tpape.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ce site web est en travaux, ce n'est pas très accueillant pour le moment, mais ça va vite changer ;).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ingénieur indépendant disponible pour tout type de projets informatiques et réseaux. 
+Basé à Saint Laurent du Maroni, mobile sur toute la Guyane.
 
-### Markdown
+### Services proposés
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ma formation et expériences me permettent de vous proposer un large panel de services :
 
-```markdown
-Syntax highlighted code block
+- Applications mobiles
+- Applications web
+- Site web vitrine
+- Gestion de parc informatique et réseau
+- Déploiement de solution clés en main
+- Conception et développements de projets logiciels
+- Pilotage de développements offshores
+- Conseil et étude de besoin/faisabilité
+- ...
 
-# Header 1
-## Header 2
-### Header 3
+### Pour plus d'informations
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tpape/tpape.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Téléchargez mon C.V.](cv_pape_t.pdf)
