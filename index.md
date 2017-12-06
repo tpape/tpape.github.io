@@ -1,4 +1,4 @@
-> Ce site web est en travaux, il pas très accueillant pour le moment, mais ça va vite changer ;)  
+> Ce site web est en travaux, il n'est très accueillant pour le moment, mais cela va vite changer.  
 > Merci de votre compréhension.
 
 Ingénieur indépendant disponible pour tout type de projets informatiques et réseaux. 
