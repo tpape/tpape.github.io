@@ -6,7 +6,7 @@ Basé à Saint Laurent du Maroni, mobile sur toute la Guyane.
 
 ### Services proposés
 
-Ma formation et expériences me permettent de vous proposer un large panel de services :
+Mes formations et expériences me permettent de vous proposer un large panel de services :
 
 - Applications mobiles
 - Applications web
