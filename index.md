@@ -1,5 +1,3 @@
-## Thomas Pape
-
 Ce site web est en travaux, ce n'est pas très accueillant pour le moment, mais ça va vite changer ;).
 
 Ingénieur indépendant disponible pour tout type de projets informatiques et réseaux. 
