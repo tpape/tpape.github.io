@@ -21,4 +21,4 @@ Ma formation et expériences me permettent de vous proposer un large panel de se
 
 ### Pour plus d'informations
 
-[Téléchargez mon C.V.](/cv_pape_t.pdf)
+[Téléchargez mon C.V.](/CV_pape_t.pdf)
