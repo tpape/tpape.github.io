@@ -8,12 +8,16 @@ Basé à Saint Laurent du Maroni, mobile sur toute la Guyane.
 
 Mes formations et expériences me permettent de vous proposer un large panel de services :
 
+- Conception et développements de tous projets logiciels :
+  - Interfaces homme-machine
+  - Module d'interconnexion
+  - Tableaux de bord
+  - Bots/Crawlers
 - Applications mobiles
 - Applications web
 - Site web vitrine
 - Gestion de parc informatique et réseau
 - Déploiement de solution clés en main
-- Conception et développements de projets logiciels
 - Pilotage de développements offshores
 - Conseil et étude de besoin/faisabilité
 - ...
