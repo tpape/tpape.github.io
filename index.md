@@ -10,8 +10,8 @@ Mes formations et expériences me permettent de vous proposer un large panel de 
 
 - Conception et développements de tous projets logiciels :
   - Interfaces homme-machine
-  - Module d'interconnexion
   - Tableaux de bord
+  - Automatisations
   - Bots/Crawlers
 - Applications mobiles
 - Applications web
