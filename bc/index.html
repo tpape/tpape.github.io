@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="bc.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire Bois Canon</title>
+  </head>
+  <body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <script src="bc.js"></script>
+
+    <div class="overlay"></div>
+	<div class="container">
+		<div class="loginBox">
+			<div class="userImage">
+				<img src="logo.png">
+			</div>
+			<form id="loginForm">
+				<div class="input-wrapper">
+					<label>Prénom* :</label>
+					<input id="name" type="text" name="" placeholder="">
+				</div>
+        <div class="input-wrapper">
+          <div class="input-wrapper">
+					<label>Nom* :</label>
+					<input id="lastname" type="text" name="" placeholder="" >
+				</div>
+        <div class="input-wrapper">
+					<label>Email :</label>
+					<input id="mail" type="email" name="" placeholder="">
+				</div>
+				<div class="input-wrapper">
+					<label>Téléphone :</label>
+					<input id="tel" type="text" name="" placeholder="">
+				</div>
+				<input type="button" name="" value="Créer ma fiche" onclick="validateForm()">
+			</form>
+		</div>
+	</div>
+	<div class="confirmation showOk">
+    <div class="userImage">
+        <img src="logo.png">
+    </div>
+    <div id="qrcode"></div>
+    <div id="bye">Rendez-vous au Bois Canon <3</div>
+</div> 
+  </body>
+</html>
